@@ -1,370 +1,272 @@
-<!doctype html>
-<html lang="en">
+<!DOCTYPE html>
+<html>
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width,user-scalable=no,initial-scale=1,maximum-scale=1,minimum-scale=1">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="shortcut icon" href="http://www.diyoelec.com/favicon.ico" type="image/x-icon">
-    <link rel="icon" href="http://www.diyoelec.com/favicon.ico" type="image/x-icon">
-    <link rel="stylesheet" href="/lib/css/bootstrap-3.3.7.min.css">
-    <link rel="stylesheet" href="/css/all.min.css">
-    <title>diyo</title>
-</head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="shortcut icon" href="http://www.diyoelec.com/favicon.ico" type="image/x-icon">
+  <link rel="icon" href="http://www.diyoelec.com/favicon.ico" type="image/x-icon">
+  <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+  <link rel="stylesheet" href="assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="theme.css" type="text/css"> </head>
 
 <body>
-    <div class="pc">
-        <div class="nav">
-            <a class="menu" href="/">
-                <span>HOME</span>
+  <div class="container-fluid">
+    <nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-top p-0 m-0">
+      <button class="navbar-toggler col-1 order-2" type="button" data-toggle="collapse" data-target=".navbarCollapse" aria-controls="navbarCollapse"
+        aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="col-1 col-md-1"> &nbsp; </div>
+      <div class="collapse navbar-collapse navbarCollapse col-12 col-md-4 order-3 order-md-0">
+        <ul class="navbar-nav nav-pills nav-justified w-100">
+          <li class="nav-item active">
+            <a class="nav-link text-uppercase" href="index.html">home
+              <span class="sr-only">(current)</span>
             </a>
-            <a class="menu" href="/about.html">ABOUT</a>
-            <div class="logo">
-                <div>
-                    <img src="/images/pcindex/LOGO.png">
-                </div>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link text-uppercase" href="about.html">about</a>
+          </li>
+        </ul>
+      </div>
+      <div class="col-8 col-md-2"> &nbsp; </div>
+      <div class="collapse navbar-collapse navbarCollapse col-12 col-md-4 order-4 order-md-2">
+        <ul class="navbar-nav nav-pills nav-justified w-100">
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle text-uppercase" href="product.html" id="navbarDropdown" role="button" data-toggle="dropdown"
+              aria-haspopup="true" aria-expanded="false"> product </a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+              <a class="dropdown-item text-uppercase" href="product.html">hdmi</a>
+              <a class="dropdown-item text-uppercase" href="product.html">usb</a>
+              <div class="dropdown-divider"></div>
+              <a class="dropdown-item text-uppercase" href="product.html">mobile</a>
             </div>
-            <a class="menu" href="/product.html">PRODUCT</a>
-            <a class="menu" href="/services.html">SERVICES</a>
-            <div class="search">
-                <input placeholder="search...">
-                <div>
-                    <img src="/images/pcindex/search.png">
-                </div>
-            </div>
-        </div>
-        <div class="banner">
-            <figure id="pc_feature" class="swipslider">
-                <ul class="sw-slides">
-                    <li class="sw-slide">
-                        <img src="/images/pcindex/temp/banner1.png">
-                    </li>
-                    <li class="sw-slide">
-                        <img src="/images/pcindex/temp/banner1.png">
-                    </li>
-                    <li class="sw-slide">
-                        <img src="/images/pcindex/temp/banner1.png">
-                    </li>
-                </ul>
-            </figure>
-        </div>
-        <div class="product">
-            <div class="title main">
-                <img src="/images/pcindex/line.png">
-                <h2>PRODUCT SERIES</h2>
-                <img src="/images/pcindex/line.png">
-            </div>
-            <ul>
-                <li>
-                    <div>
-                        <img src="/images/pcindex/temp/usb.png">
-                        <p>USB Cable</p>
-                    </div>
-                </li>
-                <li>
-                    <div>
-                        <img src="/images/pcindex/temp/charger.png">
-                        <p>Charger</p>
-                    </div>
-                </li>
-                <li>
-                    <div>
-                        <img src="/images/pcindex/temp/parts.png">
-                        <p>Iphone Parts</p>
-                    </div>
-                </li>
-            </ul>
-            <div class="more">MORE...</div>
-        </div>
-        <div class="aboutus">
-            <img src="/images/pcindex/temp/aboutus.png">
-            <div>
-                <h2>ABOUT US</h2>
-                <p>We are a cable factory founded in 2006, around 10 years cables manufacture experience.we main produce audio
-                    and video cables, coaxial cables and lan cables, computer cables .with 12000 square metres of workshop
-                    space and 150 staff. we are located in ChangZhou city which is we known as"dragon city", it takes only
-                    1 hours by train from shanghai to our company under fast. traffic conditions.</p>
-            </div>
-        </div>
-        <div class="culture">
-            <div class="title main">
-                <img src="/images/pcindex/line.png">
-                <h2>DIYO · CULTURE</h2>
-                <img src="/images/pcindex/line.png">
-            </div>
-            <ul>
-                <li>
-                    <img src="/images/pcindex/development.png">
-                    <p>DEVELOPMENT</p>
-                    <span>ONE-STOP SUPPLIER FOR CABLES AND CONNECTORS</span>
-                </li>
-                <li>
-                    <img src="/images/pcindex/mission.png">
-                    <p>MISSION</p>
-                    <span>creating value for our customers building development platform for our staff, providing benefits for
-                        shareholders and contributing to the society.</span>
-                </li>
-                <li>
-                    <img src="/images/pcindex/values.png">
-                    <p>VALUES</p>
-                    <span>Diligent, responsible, prudent, honest</span>
-                </li>
-            </ul>
-        </div>
-        <div class="link">
-            <div>
-                <p>Address: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</p>
-                <p>Phone: xxxx-xxxxxxxxx</p>
-                <p>Fax: xxxx-xxxxxxxxxxxxx</p>
-                <p>Zip code:213211</p>
-                <p>Mailbox: xx@xxxxx.com</p>
-                <p>Web site: xxxxxxxxxxxxxxxcom.cn</p>
-            </div>
-            <img src="/images/pcindex/link.png">
-        </div>
-        <div class="news">
-            <div class="title main">
-                <img src="/images/pcindex/line.png">
-                <h2>COMPANY NEWS</h2>
-                <img src="/images/pcindex/line.png">
-            </div>
-            <img class="pic" src="/images/pcindex/news.png">
-            <ul>
-                <li>
-                    <p>e are a cable factory founded e are a cable factory founded e are a cable factory founded</p>
-                    <span>12-1</span>
-                </li>
-                <li>
-                    <p>e are a cable factory founded</p>
-                    <span>12-1</span>
-                </li>
-                <li>
-                    <p>e are a cable factory founded</p>
-                    <span>12-1</span>
-                </li>
-                <li>
-                    <p>e are a cable factory founded</p>
-                    <span>12-1</span>
-                </li>
-                <li>
-                    <p>e are a cable factory founded</p>
-                    <span>12-1</span>
-                </li>
-            </ul>
-            <div class="more">MORE...</div>
-        </div>
-        <div class="footer">
-            <p>© Copy right 2018 | Privacy | Policy</p>
-        </div>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link text-uppercase" href="services.html">services</a>
+          </li>
+        </ul>
+      </div>
+      <div class="col-1 col-md-1 order-1 order-md-3">
+        <a class="text-primary" href="search.html">
+          <i class="fa fa-fw fa-search fa-2x"></i>
+        </a>
+      </div>
+    </nav>
+    <div class="col-8 col-md-2 order-0 order-md-1 text-center mx-auto fixed-top">
+      <a class="navbar-brand p-0 m-0" href="index.html">
+        <img src="images/pcindex/logo.svg" class="w-50 rounded-circle" alt="Logo"> </a>
     </div>
-    <div class="phone_end">
-        <header>
-            <div class="language fl"></div>
-            <div class="logo" id="logo"></div>
-            <div class="search_input hide">
-                <input type="text" placeholder="请输入搜索关键词">
-                <i id="search_btn">搜索</i>
-            </div>
-            <div class="more fr" id="more_nav"></div>
-            <div class="search fr" id="search_fdj"></div>
-            <div class="slid_list hide" id="slid_list">
-                <b id="close_slide">×</b>
-                <ul>
-                    <li>
-                        <a href="javascript:;">HOME</a>
-                    </li>
-                    <li>
-                        <a href="javascript:;">ABOUT</a>
-                    </li>
-                    <li>
-                        <a href="javascript:;">PRODUCT</a>
-                    </li>
-                    <li>
-                        <a href="javascript:;">SERVICES</a>
-                    </li>
-                </ul>
-            </div>
-        </header>
-        <article class="slider_container" style="background-color:#000">
-            <figure id="full_feature" class="swipslider">
-                <ul class="sw-slides">
-                    <li class="sw-slide">
-                        <a href="javascript:;">
-                            <img src="/images/pcindex/temp/banner1.png">
-                        </a>
-                    </li>
-                    <li class="sw-slide">
-                        <a href="javascript:;">
-                            <img src="/images/pcindex/temp/banner1.png">
-                        </a>
-                    </li>
-                    <li class="sw-slide">
-                        <a href="javascript:;">
-                            <img src="/images/pcindex/temp/banner1.png">
-                        </a>
-                    </li>
-                    <li class="sw-slide">
-                        <a href="javascript:;">
-                            <img src="/images/pcindex/temp/banner1.png">
-                        </a>
-                    </li>
-                </ul>
-            </figure>
-        </article>
-        <section class="main_content">
-            <div class="nav">
-                <ul>
-                    <li>
-                        <a href="javascript:;">
-                            <img src="/images/index/1.png">
-                            <p>PRODUCT</p>
-                        </a>
-                    </li>
-                    <li>
-                        <a href="javascript:;">
-                            <img src="/images/index/2.png">
-                            <p>ABOUT</p>
-                        </a>
-                    </li>
-                    <li>
-                        <a href="javascript:;">
-                            <img src="/images/index/3.png">
-                            <p>SERVICES</p>
-                        </a>
-                    </li>
-                    <li>
-                        <a href="javascript:;">
-                            <img src="/images/index/4.png">
-                            <p>CONTACTS</p>
-                        </a>
-                    </li>
-                </ul>
-            </div>
-            <div class="product_display">
-                <div class="title">
-                    <span>PRODUCT DISPLAY</span>
-                </div>
-                <div class="products">
-                    <ul class="clearfix">
-                        <li>
-                            <a href="javascript:;">
-                                <div class="top">
-                                    <img src="/images/index/5.png" alt="">
-                                </div>
-                                <div class="name">USB Cable</div>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="javascript:;">
-                                <div class="top">
-                                    <img src="/images/index/6.png" alt="">
-                                </div>
-                                <div class="name">Charger</div>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="javascript:;">
-                                <div class="top">
-                                    <img src="/images/index/7.png" alt="">
-                                </div>
-                                <div class="name">Cable</div>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="javascript:;">
-                                <div class="top">
-                                    <img src="/images/index/7.png" alt="">
-                                </div>
-                                <div class="name">Cable</div>
-                            </a>
-                        </li>
-                    </ul>
-                </div>
-                <div class="more">
-                    <a href="javascript:;">MORE ></a>
-                </div>
-            </div>
-            <div class="company_news">
-                <div class="title">
-                    <span>COMPANY NEWS</span>
-                </div>
-                <div class="news_detail">
-                    <ul>
-                        <li>
-                            <img src="/images/index/8.png" alt="">
-                            <div>
-                                <p class="tit">e are a cable factory founded in 2006,</p>
-                                <span class="cont">e are a cable factory are a cable factory...
-                                    <span class="more">
-                                        <a href="javascript:;">[more]</a>
-                                    </span>
-                                </span>
-                            </div>
-                        </li>
-                    </ul>
-                </div>
-                <div class="news_list">
-                    <ul>
-                        <li>
-                            <a href="javascript:;">a cable factory...</a>
-                            <span class="date">12-10</span>
-                        </li>
-                        <li>
-                            <a href="javascript:;">a cable factory...</a>
-                            <span class="date">12-10</span>
-                        </li>
-                        <li>
-                            <a href="javascript:;">a cable factory...</a>
-                            <span class="date">12-10</span>
-                        </li>
-                        <li>
-                            <a href="javascript:;">a cable factory...</a>
-                            <span class="date">12-10</span>
-                        </li>
-                    </ul>
-                    <div class="more">
-                        <a href="javascript:;">MORE ></a>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <footer>
-            <div class="logo">
-                <img src="/images/index/logo.png" alt="">
-            </div>
-            <div class="company">
-                <p>Changzhou Diyou Electronic Co,Ltd</p>
-                <p>ONE-STOP SUPPLINER FOR CABLES AND CONNECTORS</p>
-            </div>
-            <div class="callUs clearfix">
-                <div class="left fl">
-                    <div class="picWrap fl">
-                        <img src="/images/index/9.png" alt="">
-                    </div>
-                    <div class="tel">
-                        <p>Call us :</p>
-                        <p>(000) 000000</p>
-                    </div>
-                </div>
-                <div class="right fr">
-                    <div class="picWrap fl">
-                        <img src="/images/index/10.png" alt="">
-                    </div>
-                    <div class="email">
-                        <p>Support@xxxxx</p>
-                        <p>@xxxxx</p>
-                    </div>
-                </div>
-            </div>
-            <div class="shenming">
-                <p>Copyright 2009-2017 wooboo.com.cn allright reserved</p>
-                <p>Company address: XXXXXXXXXXXXXXXXXXXX</p>
-            </div>
-        </footer>
+  </div>
+  <div class="container-fluid pt-5">
+    <div class="row">
+      <div class="carousel slide" data-ride="carousel" id="carouselArchitecture">
+        <ol class="carousel-indicators">
+          <li data-target="#carouselArchitecture" data-slide-to="0" class="active">
+            <i></i>
+          </li>
+          <li data-target="#carouselArchitecture" data-slide-to="1">
+            <i></i>
+          </li>
+          <li data-target="#carouselArchitecture" data-slide-to="2">
+            <i></i>
+          </li>
+        </ol>
+        <div class="carousel-inner" role="listbox">
+          <div class="carousel-item active">
+            <img class="d-block w-100" src="images/pcindex/temp/banner1.png" data-holder-rendered="true"> </div>
+          <div class="carousel-item">
+            <img class="d-block w-100" src="images/pcindex/temp/banner1.png" data-holder-rendered="true"> </div>
+          <div class="carousel-item">
+            <img class="d-block w-100" src="images/pcindex/temp/banner1.png" data-holder-rendered="true"> </div>
+        </div>
+        <a class="carousel-control-prev" href="#carouselArchitecture" role="button" data-slide="prev">
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+          <span class="sr-only">Previous</span>
+        </a>
+        <a class="carousel-control-next" href="#carouselArchitecture" role="button" data-slide="next">
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+          <span class="sr-only">Next</span>
+        </a>
+      </div>
     </div>
-    <script src="/lib/js/jquery-2.2.4.min.js"></script>
-    <script src="/lib/js/swipeslider.min.js"></script>
-    <script src="/js/all.min.js"></script>
+  </div>
+  <div class="container-fluid">
+    <div class="row align-items-center pt-1 pb-1">
+      <div class="col-md-12 align-self-center">
+        <h1 class="text-primary text-center text-uppercase m-0">product display</h1>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-4">
+        <div class="card w-50 mx-auto bg-primary">
+          <div class="card-block">
+            <img class="card-img-top" src="images/pcindex/temp/usb.png" alt="Card image cap">
+            <div class="card-body">
+              <h5 class="card-title text-center text-dark">USB Cable</h5>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <div class="card w-50 mx-auto bg-primary">
+          <div class="card-block">
+            <img class="card-img-top" src="images/pcindex/temp/usb.png" alt="Card image cap">
+            <div class="card-body">
+              <h5 class="card-title text-center text-dark">USB Cable</h5>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <div class="card w-50 mx-auto bg-primary">
+          <div class="card-block">
+            <img class="card-img-top" src="images/pcindex/temp/usb.png" alt="Card image cap">
+            <div class="card-body">
+              <h5 class="card-title text-center text-dark">USB Cable</h5>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="row no-gutters">
+      <div class="col-md-12">
+        <h4 class="mr-5 text-right text-primary">MORE &gt;</h4>
+      </div>
+    </div>
+  </div>
+  <div class="container-fluid p-0">
+    <div class="row m-0">
+      <div class="col-md-4 p-0">
+        <img src="images/pcindex/temp/aboutus.png" class="img-fluid d-block mx-auto"> </div>
+      <div class="col-md-8 bg-secondary">
+        <h2 class="text-primary text-uppercase m-2">about us</h2>
+        <p class="text-dark m-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna
+          aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+          Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur
+          sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+      </div>
+    </div>
+  </div>
+  <div class="container-fluid">
+    <div class="row d-flex d-inline-block h-25 pt-1 pb-1">
+      <div class="col-md-12 justify-content-center align-self-center">
+        <h1 class="text-primary text-center text-uppercase">diyo culture</h1>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-4 p-4">
+        <img class="img-fluid d-block mx-auto rounded" src="images/pcindex/development.png">
+        <h3 class="text-uppercase text-center pt-1"> development </h3>
+        <p class="my-4">
+          <i>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.</i>
+        </p>
+      </div>
+      <div class="col-md-4 p-4">
+        <img class="img-fluid d-block mx-auto rounded" src="images/pcindex/mission.png">
+        <h3 class="text-uppercase text-center pt-1"> mission </h3>
+        <p class="my-4">
+          <i>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies
+            nec. </i>
+        </p>
+      </div>
+      <div class="col-md-4 p-4">
+        <img class="img-fluid d-block mx-auto rounded" src="images/pcindex/values.png">
+        <h3 class="text-uppercase text-center pt-1"> values </h3>
+        <p class="my-4">
+          <i>Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Cum sociis natoque penatibus et magnis dis
+            parturient montes.</i>
+        </p>
+      </div>
+    </div>
+  </div>
+  <div class="container-fluid">
+    <div class="row bg-secondary">
+      <div class="col-md-5 pt-2">
+        <p class="lead m-0">Address: XXXXXX</p>
+        <p class="lead m-0">Phone: 13888888888</p>
+        <p class="lead m-0">Fax: 13888888888</p>
+        <p class="lead m-0">Zip code: 13888888888</p>
+        <p class="lead m-0">Email: 13888888888</p>
+        <p class="lead m-0">Web site: 13888888888</p>
+      </div>
+      <div class="col-md-2 col-md-auto"> </div>
+      <div class="col-md-5 mr-0 pr-0" style="background-image: url('images/pcindex/link.png');background-position:center center;">
+      </div>
+    </div>
+  </div>
+  <div class="container-fluid p-0">
+    <div class="row align-items-center pt-1 pb-1">
+      <div class="col-md-12 align-self-center">
+        <h1 class="text-primary text-center text-uppercase m-0">company news</h1>
+      </div>
+    </div>
+    <div class="row m-0 align-items-center">
+      <div class="col-md-4 p-0">
+        <img src="images/pcindex/news.png" class="img-fluid d-block mx-auto rounded"> </div>
+      <div class="col-md-8">
+        <ul class="list-group list-group-flush">
+          <li class="list-group-item d-flex justify-content-between align-items-center transparent text-primary"> e are a cable factory founded ...
+            <span class="badge">12 - 1</span>
+          </li>
+          <li class="list-group-item d-flex justify-content-between align-items-center transparent text-primary"> e are a cable factory founded ...
+            <span class="badge">12 - 2</span>
+          </li>
+          <li class="list-group-item d-flex justify-content-between align-items-center transparent text-primary"> e are a cable factory founded ...
+            <span class="badge">12 - 3</span>
+          </li>
+          <li class="list-group-item d-flex justify-content-between align-items-center transparent text-primary"> e are a cable factory founded ...
+            <span class="badge">12 - 3</span>
+          </li>
+          <li class="list-group-item d-flex justify-content-between align-items-center transparent text-primary"> e are a cable factory founded ...
+            <span class="badge">12 - 3</span>
+          </li>
+          <li class="list-group-item d-flex justify-content-between align-items-center transparent text-primary"> e are a cable factory founded ...
+            <span class="badge">12 - 3</span>
+          </li>
+        </ul>
+        <h4 class="mr-3 text-right text-primary">MORE &gt;</h4>
+      </div>
+    </div>
+  </div>
+  <div class="container-fluid p-5">
+    <div class="row">
+      <div class="col-4 col-md-4"> </div>
+      <div class="col-4 col-md-4">
+        <div class="row">
+          <div class="col-4 text-center">
+            <a href="https://twitter.com" target="_blank" class="">
+              <i class="fa fa-fw fa-twitter fa-2x"></i>
+            </a>
+          </div>
+          <div class="col-4 text-center">
+            <a href="https://facebook.com" target="_blank">
+              <i class="fa fa-fw fa-facebook fa-2x"></i>
+            </a>
+          </div>
+          <div class="col-4 text-center">
+            <a href="https://google.com" target="_blank">
+              <i class="fa fa-fw fa-google-plus fa-2x"></i>
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="col-4 col-md-4"> </div>
+    </div>
+    <div class="row align-items-center bg-primary rounded-bottom">
+      <div class="col-md-12 text-left">
+        <p class="text-dark m-0">© Copyright 2018 Diyoelec.com - All rights reserved.</p>
+      </div>
+    </div>
+  </div>
+  <script src="assets/js/jquery.min.js"></script>
+  <script src="assets/js/popper.min.js"></script>
+  <script src="assets/js/bootstrap.min.js"></script>
+  <pingendo onclick="window.open('https://pingendo.com/', '_blank')" style="cursor:pointer;position: fixed;bottom: 10px;right:10px;padding:4px;background-color: #00b0eb;border-radius: 8px; width:180px;display:flex;flex-direction:row;align-items:center;justify-content:center;font-size:14px;color:white">Made with Pingendo&nbsp;&nbsp;
+    <img src="https://pingendo.com/site-assets/Pingendo_logo_big.png" class="d-block" alt="Pingendo logo" height="16">
+  </pingendo>
 </body>
 
 </html>
