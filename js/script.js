@@ -43,6 +43,6 @@ function GetJson() {
             }
         });
     }
-console.log(result);
+console.log(p);
     return result == null || result == "" || result == "undefined" ? "" : result;
 }
