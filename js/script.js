@@ -38,12 +38,11 @@ function GetJson() {
                 result = f[0];
                 if (s != "") {
                     v = s.split("?");
-                    result = result + v[1];
+                    result = result + "-"+ v[1];
                 }
                 result = result + ".json";
             }
         });
     }
-console.log(result);
     return result == null || result == "" || result == "undefined" ? "" : result;
 }
