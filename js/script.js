@@ -26,23 +26,24 @@ function init() {
 }
 
 function GetJson() {
-    var p = window.location.search;
-    var u = ["product", "pages"];
-    var s, v, result;
+    var p = window.location.pathname;
+    var s = window.location.search;
+    var u = ["/product", "/pages"];
+    var f, v, result;
 
     if (p != "/") {
-        s = p.split(".");
+        f = p.split(".");
         $.each(u, function (index, value) {
-            if (s[0] == value) {
-                result = s[0];
-                if (p.indexOf("?") != -1) {
-                    v = p.split("?");
+            if (f[0] == value) {
+                result = f[0];
+                if (s != "") {
+                    v = s.split("?");
                     result = result + v[1];
                 }
                 result = result + ".json";
             }
         });
     }
-console.log(p);
+console.log(result);
     return result == null || result == "" || result == "undefined" ? "" : result;
 }
