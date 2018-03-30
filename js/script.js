@@ -38,7 +38,7 @@ function GetJson() {
                 result = f[0];
                 if (s != "") {
                     v = s.split("?");
-                    result = result + "-"+ v[1];
+                    result = result + "_"+ v[1];
                 }
                 result = result + ".json";
             }
