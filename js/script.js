@@ -26,7 +26,7 @@ function init() {
 }
 
 function GetJson() {
-    var p = window.location.pathname;
+    var p = window.location.search;
     var u = ["product", "pages"];
     var s, v, result;
 
