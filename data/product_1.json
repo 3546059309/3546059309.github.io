@@ -7,5 +7,10 @@
     "label": ".row.bg-info:eq(1)",
     "html":
       "<div class=\"col-sm-4 pl-5 pr-5\"><a class=\"card bg-transparent p-5 border-0\" href=\"pages.html?1\"><img class=\"card-img-top\" src=\"assets/images/pcindex/temp/usb.png\" alt=\"Card image cap\"><div class=\"card-body text-white p-0\"><h5 class=\"card-title text-center hvr-underline-from-center\"><span>Card title</span></h5><p class=\"card-text\">This is a wider card with supporting text below as a natural lead-in to additional content. This contentis a little bit longer.中文中文</p></div></a></div>"
+  },
+  {
+    "label": ".row.bg-info:eq(1)",
+    "append":
+      "<div class=\"col-sm-4 pl-5 pr-5\"><a class=\"card bg-transparent p-5 border-0\" href=\"pages.html?1\"><img class=\"card-img-top\" src=\"assets/images/pcindex/temp/usb.png\" alt=\"Card image cap\"><div class=\"card-body text-white p-0\"><h5 class=\"card-title text-center hvr-underline-from-center\"><span>Card title</span></h5><p class=\"card-text\">This is a wider card with supporting text below as a natural lead-in to additional content. This contentis a little bit longer.测试测试</p></div></a></div>"
   }
 ]
