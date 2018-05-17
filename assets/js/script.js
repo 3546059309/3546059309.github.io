@@ -2,7 +2,7 @@ init();
 
 function init() {
     if (GetJson() != "") {
-        var json = "js/data" + GetJson();
+        var json = "./data" + GetJson();
         $.getJSON(json, function (data) {
             $.each(data, function (key, val) {
                 if ("undefined" != typeof val.text) {
