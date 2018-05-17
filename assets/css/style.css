@@ -3,6 +3,6 @@ body {
   background-color: #000000;
 }
 
-list-group li a {
+.list-group li a {
   color: #212529;
 }
