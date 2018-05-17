@@ -5,7 +5,7 @@
   },
   {
     "label": ".row.bg-info:eq(1)",
-    "append":
+    "html":
       "<div class=\"col-md-5 order-2 order-md-1\"><img class=\"img-fluid d-block mx-auto\" src=\"assets/images/pcindex/temp/usb.png\"> </div><div class=\"col-md-7 order-1 order-md-2\"><h3>STA-MCMF20-GD</h3><p class=\"my-3\">USB TYPE C DATA & SYNC ADAPTER</p><p class=\"my-3\">Specifications:</p><p class=\"my-3\">Fast charging and data sync<br> Version:USB 2.0<br> Transfer speed up to 480Mbps测试</p></div>"
   }
 ]
