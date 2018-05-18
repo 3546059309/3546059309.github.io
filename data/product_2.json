@@ -1,6 +1,40 @@
 [
     {
         "label": "title",
-        "text": "Midi - diyoelec.com"
+        "text": "usb - diyoelec.com"
+    },
+    {
+      "label": ".row.bg-info h5",
+      "text": "usb"
+    },
+    {
+      "label": ".row.bg-info:eq(1)",
+      "html":
+        "<div class=\"col-sm-4 pl-5 pr-5\"><a class=\"card bg-transparent p-5 border-0\" href=\"pages.html?1\"><img class=\"card-img-top\" src=\"assets/images/pcindex/3.1am+af.png\" alt=\"Card image cap\"><div class=\"card-body text-white p-0\"><h5 class=\"card-title text-center hvr-underline-from-center\"><span>3.1 AM + AF</span></h5><p class=\"card-text\">Cabo 3.1 AM + AF 2M</p></div></a></div>"
+    },
+    {
+      "label": ".row.bg-info:eq(1)",
+      "append":
+        "<div class=\"col-sm-4 pl-5 pr-5\"><a class=\"card bg-transparent p-5 border-0\" href=\"pages.html?2\"><img class=\"card-img-top\" src=\"assets/images/pcindex/AF+P3.png\" alt=\"Card image cap\"><div class=\"card-body text-white p-0\"><h5 class=\"card-title text-center hvr-underline-from-center\"><span>AF + P3</span></h5><p class=\"card-text\">Cable AF + P3 stereo 20CM</p></div></a></div>"
+    },
+    {
+      "label": ".row.bg-info:eq(1)",
+      "append":
+        "<div class=\"col-sm-4 pl-5 pr-5\"><a class=\"card bg-transparent p-5 border-0\" href=\"pages.html?2\"><img class=\"card-img-top\" src=\"assets/images/pcindex/AM+P3.png\" alt=\"Card image cap\"><div class=\"card-body text-white p-0\"><h5 class=\"card-title text-center hvr-underline-from-center\"><span>AM + P3</span></h5><p class=\"card-text\">Cable AM + P3 stereo 20CM</p></div></a></div>"
+    },
+    {
+      "label": ".row.bg-info:eq(1)",
+      "append":
+        "<div class=\"col-sm-4 pl-5 pr-5\"><a class=\"card bg-transparent p-5 border-0\" href=\"pages.html?2\"><img class=\"card-img-top\" src=\"assets/images/pcindex/AM+AM.png\" alt=\"Card image cap\"><div class=\"card-body text-white p-0\"><h5 class=\"card-title text-center hvr-underline-from-center\"><span>AM + AM</span></h5><p class=\"card-text\">Cable AM + AM 2M</p></div></a></div>"
+    },
+    {
+      "label": ".row.bg-info:eq(1)",
+      "append":
+        "<div class=\"col-sm-4 pl-5 pr-5\"><a class=\"card bg-transparent p-5 border-0\" href=\"pages.html?2\"><img class=\"card-img-top\" src=\"assets/images/pcindex/AM+BM.png\" alt=\"Card image cap\"><div class=\"card-body text-white p-0\"><h5 class=\"card-title text-center hvr-underline-from-center\"><span>AM + BM</span></h5><p class=\"card-text\">Cable AM + BM 2M</p></div></a></div>"
+    },
+    {
+      "label": ".row.bg-info:eq(1)",
+      "append":
+        "<div class=\"col-sm-4 pl-5 pr-5\"><a class=\"card bg-transparent p-5 border-0\" href=\"pages.html?2\"><img class=\"card-img-top\" src=\"assets/images/pcindex/AM+MINI.png\" alt=\"Card image cap\"><div class=\"card-body text-white p-0\"><h5 class=\"card-title text-center hvr-underline-from-center\"><span>AM + MINI</span></h5><p class=\"card-text\">Cable AM + MINI 2M</p></div></a></div>"
     }
 ]
