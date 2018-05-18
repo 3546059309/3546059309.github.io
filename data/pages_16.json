@@ -1,0 +1,11 @@
+[
+    {
+        "label": "title",
+        "text": "USB - diyoelec.com"
+    },
+    {
+      "label": ".row.bg-info:eq(1)",
+      "html":
+        "<div class=\"col-md-5 order-2 order-md-1\"><img class=\"img-fluid d-block mx-auto\" src=\"assets/images/pcindex/temp/31am+af.png\"> </div><div class=\"col-md-7 order-1 order-md-2\"><h3>STA-MCMF20-GD</h3><p class=\"my-3\">31am+af</p><p class=\"my-3\">Specifications:</p>3.1 AM + AF<p class=\"my-3\">Cabo 3.1 AM + AF 2M</p></div>"
+    }
+]
