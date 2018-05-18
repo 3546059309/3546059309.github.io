@@ -5,7 +5,7 @@
     },
     {
       "label": ".row.bg-info h5",
-      "text": "usb"
+      "text": "USB"
     },
     {
       "label": ".row.bg-info:eq(1)",
