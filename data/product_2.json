@@ -10,7 +10,7 @@
     {
       "label": ".row.bg-info:eq(1)",
       "html":
-        "<div class=\"col-sm-4 pl-5 pr-5\"><a class=\"card bg-transparent p-5 border-0\" href=\"pages.html?1\"><img class=\"card-img-top\" src=\"assets/images/pcindex/3.1am+af.png\" alt=\"Card image cap\"><div class=\"card-body text-white p-0\"><h5 class=\"card-title text-center hvr-underline-from-center\"><span>3.1 AM + AF</span></h5><p class=\"card-text\">Cabo 3.1 AM + AF 2M</p></div></a></div>"
+        "<div class=\"col-sm-4 pl-5 pr-5\"><a class=\"card bg-transparent p-5 border-0\" href=\"pages.html?1\"><img class=\"card-img-top\" src=\"assets/images/pcindex/31am+af.png\" alt=\"Card image cap\"><div class=\"card-body text-white p-0\"><h5 class=\"card-title text-center hvr-underline-from-center\"><span>3.1 AM + AF</span></h5><p class=\"card-text\">Cabo 3.1 AM + AF 2M</p></div></a></div>"
     },
     {
       "label": ".row.bg-info:eq(1)",
