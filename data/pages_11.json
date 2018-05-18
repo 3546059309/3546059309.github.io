@@ -1,0 +1,11 @@
+[
+    {
+        "label": "title",
+        "text": "RCA - diyoelec.com"
+    },
+    {
+      "label": ".row.bg-info:eq(1)",
+      "html":
+        "<div class=\"col-md-5 order-2 order-md-1\"><img class=\"img-fluid d-block mx-auto\" src=\"assets/images/pcindex/rca/Cable_3RCA+3RCA_Video_Module_Gold_2M.png\"> </div><div class=\"col-md-7 order-1 order-md-2\"><h3>3 RCA + 3 RCA</h3><p class=\"my-3\">&nbsp;</p><p class=\"my-3\">Specifications:</p><p class=\"my-3\">Cable 3RCA + 3RCA Preto 5M<br> &nbsp;<br> &nbsp;</p></div>"
+    }
+]

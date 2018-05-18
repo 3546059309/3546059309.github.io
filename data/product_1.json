@@ -10,76 +10,76 @@
   {
     "label": ".row.bg-info:eq(1)",
     "html":
-      "<div class=\"col-sm-4 pl-5 pr-5\"><a class=\"card bg-transparent p-5 border-0\" href=\"pages.html?1\"><img class=\"card-img-top\" src=\"assets/images/pcindex/Cabo-2-RCA-+-2-RCA--Niquel-2-M.png\" alt=\"Card image cap\"><div class=\"card-body text-white p-0\"><h5 class=\"card-title text-center hvr-underline-from-center\"><span>2 RCA + 2 RCA </span></h5><p class=\"card-text\">Cabo 2 RCA + 2 RCA Niquel 2M</p></div></a></div>"
+      "<div class=\"col-sm-4 pl-5 pr-5\"><a class=\"card bg-transparent p-5 border-0\" href=\"pages.html?1\"><img class=\"card-img-top\" src=\"assets/images/pcindex/rca/Cable_2RCA+2RCA_90_degrees_5M.png\" alt=\"Card image cap\"><div class=\"card-body text-white p-0\"><h5 class=\"card-title text-center hvr-underline-from-center\"><span>2 RCA + 2 RCA </span></h5><p class=\"card-text\">Cable 2RCA + 2RCA 90 degrees 5M</p></div></a></div>"
   },
   {
     "label": ".row.bg-info:eq(1)",
     "append":
-      "<div class=\"col-sm-4 pl-5 pr-5\"><a class=\"card bg-transparent p-5 border-0\" href=\"pages.html?2\"><img class=\"card-img-top\" src=\"assets/images/pcindex/Cable-2-RCA-+-2-RCA-90-degrees-5-M.png\" alt=\"Card image cap\"><div class=\"card-body text-white p-0\"><h5 class=\"card-title text-center hvr-underline-from-center\"><span>2 RCA + 2 RCA</span></h5><p class=\"card-text\">Cable 2 RCA + 2 RCA 90 degrees 5M</p></div></a></div>"
+      "<div class=\"col-sm-4 pl-5 pr-5\"><a class=\"card bg-transparent p-5 border-0\" href=\"pages.html?2\"><img class=\"card-img-top\" src=\"assets/images/pcindex/rca/Cable_2RCA+2RCA_black_wire_grounded.png\" alt=\"Card image cap\"><div class=\"card-body text-white p-0\"><h5 class=\"card-title text-center hvr-underline-from-center\"><span>2 RCA + 2 RCA</span></h5><p class=\"card-text\">Cable 2RCA + 2RCA black wire grounded 1.5M</p></div></a></div>"
   },
   {
     "label": ".row.bg-info:eq(1)",
     "append":
-      "<div class=\"col-sm-4 pl-5 pr-5\"><a class=\"card bg-transparent p-5 border-0\" href=\"pages.html?2\"><img class=\"card-img-top\" src=\"assets/images/pcindex/Cable-2-RCA-+-2-RCA-black-wire-grounded-1.5M.png\" alt=\"Card image cap\"><div class=\"card-body text-white p-0\"><h5 class=\"card-title text-center hvr-underline-from-center\"><span>2 RCA + 2 RCA</span></h5><p class=\"card-text\">Cable 2 RCA + 2 RCA black wire grounded 1.5M</p></div></a></div>"
+      "<div class=\"col-sm-4 pl-5 pr-5\"><a class=\"card bg-transparent p-5 border-0\" href=\"pages.html?3\"><img class=\"card-img-top\" src=\"assets/images/pcindex/rca/Cable_2RCA+2RCA_high_quality.png\" alt=\"Card image cap\"><div class=\"card-body text-white p-0\"><h5 class=\"card-title text-center hvr-underline-from-center\"><span>2 RCA + 2 RCA</span></h5><p class=\"card-text\">Cable 2RCA + 2RCA high quality 1.2M</p></div></a></div>"
   },
   {
     "label": ".row.bg-info:eq(1)",
     "append":
-      "<div class=\"col-sm-4 pl-5 pr-5\"><a class=\"card bg-transparent p-5 border-0\" href=\"pages.html?2\"><img class=\"card-img-top\" src=\"assets/images/pcindex/Cable-2-RCA-+-2-RCA-Plug-Metal--2M.png\" alt=\"Card image cap\"><div class=\"card-body text-white p-0\"><h5 class=\"card-title text-center hvr-underline-from-center\"><span>2 RCA + 2 RCA</span></h5><p class=\"card-text\">Cable 2 RCA + 2 RCA Plug Metal 2M</p></div></a></div>"
+      "<div class=\"col-sm-4 pl-5 pr-5\"><a class=\"card bg-transparent p-5 border-0\" href=\"pages.html?4\"><img class=\"card-img-top\" src=\"assets/images/pcindex/rca/Cable_2RCA+2RCA_Niquel_2M.png\" alt=\"Card image cap\"><div class=\"card-body text-white p-0\"><h5 class=\"card-title text-center hvr-underline-from-center\"><span>2 RCA + 2 RCA</span></h5><p class=\"card-text\">Cable 2RCA + 2RCA Niquel 2M</p></div></a></div>"
   },
   {
     "label": ".row.bg-info:eq(1)",
     "append":
-      "<div class=\"col-sm-4 pl-5 pr-5\"><a class=\"card bg-transparent p-5 border-0\" href=\"pages.html?2\"><img class=\"card-img-top\" src=\"assets/images/pcindex/Cabo-2-RCA-+-2-RCA-high-quality-1,20-M.png\" alt=\"Card image cap\"><div class=\"card-body text-white p-0\"><h5 class=\"card-title text-center hvr-underline-from-center\"><span>2 RCA + 2 RCA</span></h5><p class=\"card-text\">Cabo 2 RCA + 2 RCA high quality 1,20M</p></div></a></div>"
+      "<div class=\"col-sm-4 pl-5 pr-5\"><a class=\"card bg-transparent p-5 border-0\" href=\"pages.html?5\"><img class=\"card-img-top\" src=\"assets/images/pcindex/rca/Cable_2RCA+2RCA_Plug_Metal_2M.png\" alt=\"Card image cap\"><div class=\"card-body text-white p-0\"><h5 class=\"card-title text-center hvr-underline-from-center\"><span>2 RCA + 2 RCA</span></h5><p class=\"card-text\">Cable 2RCA + 2RCA Plug Metal 2M</p></div></a></div>"
   },
   {
     "label": ".row.bg-info:eq(1)",
     "append":
-      "<div class=\"col-sm-4 pl-5 pr-5\"><a class=\"card bg-transparent p-5 border-0\" href=\"pages.html?2\"><img class=\"card-img-top\" src=\"assets/images/pcindex/Cable-3-RCA-+-3-RCA-Coaxial-Center-Gold-2M.png\" alt=\"Card image cap\"><div class=\"card-body text-white p-0\"><h5 class=\"card-title text-center hvr-underline-from-center\"><span>3 RCA + 3 RCA</span></h5><p class=\"card-text\">Cable 3 RCA + 3 RCA Coaxial Center Gold 2M</p></div></a></div>"
+      "<div class=\"col-sm-4 pl-5 pr-5\"><a class=\"card bg-transparent p-5 border-0\" href=\"pages.html?6\"><img class=\"card-img-top\" src=\"assets/images/pcindex/rca/Cable_3RCA+3RCA_Coaxial_Center_Gold_2M.png\" alt=\"Card image cap\"><div class=\"card-body text-white p-0\"><h5 class=\"card-title text-center hvr-underline-from-center\"><span>3 RCA + 3 RCA</span></h5><p class=\"card-text\">Cable 3RCA + 3RCA Coaxial Center Gold 2M</p></div></a></div>"
   },
   {
     "label": ".row.bg-info:eq(1)",
     "append":
-      "<div class=\"col-sm-4 pl-5 pr-5\"><a class=\"card bg-transparent p-5 border-0\" href=\"pages.html?2\"><img class=\"card-img-top\" src=\"assets/images/pcindex/Cable-3-RCA-+-3-RCA-Video-Module-Gold-2M.png\" alt=\"Card image cap\"><div class=\"card-body text-white p-0\"><h5 class=\"card-title text-center hvr-underline-from-center\"><span>3 RCA + 3 RCA</span></h5><p class=\"card-text\">Cable 3 RCA + 3 RCA Video Module Gold 2M</p></div></a></div>"
+      "<div class=\"col-sm-4 pl-5 pr-5\"><a class=\"card bg-transparent p-5 border-0\" href=\"pages.html?7\"><img class=\"card-img-top\" src=\"assets/images/pcindex/rca/Cable_3RCA+3RCA_Dourado_Cristal_Azu.png\" alt=\"Card image cap\"><div class=\"card-body text-white p-0\"><h5 class=\"card-title text-center hvr-underline-from-center\"><span>3 RCA + 3 RCA</span></h5><p class=\"card-text\">Cable 3RCA + 3RCA Dourado Cristal Azu 1.8M</p></div></a></div>"
   },
   {
     "label": ".row.bg-info:eq(1)",
     "append":
-      "<div class=\"col-sm-4 pl-5 pr-5\"><a class=\"card bg-transparent p-5 border-0\" href=\"pages.html?2\"><img class=\"card-img-top\" src=\"assets/images/pcindex/Cable-3-RCA+3-RCA-Plug-Metal-2M.png\" alt=\"Card image cap\"><div class=\"card-body text-white p-0\"><h5 class=\"card-title text-center hvr-underline-from-center\"><span>3 RCA + 3 RCA</span></h5><p class=\"card-text\">Cable-3-RCA+3-RCA-Plug-Metal-2M</p></div></a></div>"
+      "<div class=\"col-sm-4 pl-5 pr-5\"><a class=\"card bg-transparent p-5 border-0\" href=\"pages.html?8\"><img class=\"card-img-top\" src=\"assets/images/pcindex/rca/Cable_3RCA+3RCA_Niquel.png\" alt=\"Card image cap\"><div class=\"card-body text-white p-0\"><h5 class=\"card-title text-center hvr-underline-from-center\"><span>3 RCA + 3 RCA</span></h5><p class=\"card-text\">Cable 3RCA + 3RCA Niquel 1.8M</p></div></a></div>"
   },
   {
     "label": ".row.bg-info:eq(1)",
     "append":
-    "<div class=\"col-sm-4 pl-5 pr-5\"><a class=\"card bg-transparent p-5 border-0\" href=\"pages.html?1\"><img class=\"card-img-top\" src=\"assets/images/pcindex/Cable 3 RCA + 3 RCA Video Module Gold 2M.png\" alt=\"Card image cap\"><div class=\"card-body text-white p-0\"><h5 class=\"card-title text-center hvr-underline-from-center\"><span>3 RCA + 3 RCA </span></h5><p class=\"card-text\">Cable 3 RCA + 3 RCA Video Module Gold 2M</p></div></a></div>"
+      "<div class=\"col-sm-4 pl-5 pr-5\"><a class=\"card bg-transparent p-5 border-0\" href=\"pages.html?9\"><img class=\"card-img-top\" src=\"assets/images/pcindex/rca/Cable_3RCA+3RCA_Plug_Metal_2M.png\" alt=\"Card image cap\"><div class=\"card-body text-white p-0\"><h5 class=\"card-title text-center hvr-underline-from-center\"><span>3 RCA + 3 RCA</span></h5><p class=\"card-text\">Cable 3RCA + 3RCA Plug Metal 2M</p></div></a></div>"
   },
   {
     "label": ".row.bg-info:eq(1)",
     "append":
-    "<div class=\"col-sm-4 pl-5 pr-5\"><a class=\"card bg-transparent p-5 border-0\" href=\"pages.html?1\"><img class=\"card-img-top\" src=\"assets/images/pcindex/Cabo-3-RCA-+-3-RCA-Dourado-Cristal-Azul-1.80m.png\" alt=\"Card image cap\"><div class=\"card-body text-white p-0\"><h5 class=\"card-title text-center hvr-underline-from-center\"><span>3 RCA + 3 RCA </span></h5><p class=\"card-text\">Cabo 3 RCA + 3 RCA Dourado Cristal Azul 1.80m</p></div></a></div>"
+      "<div class=\"col-sm-4 pl-5 pr-5\"><a class=\"card bg-transparent p-5 border-0\" href=\"pages.html?10\"><img class=\"card-img-top\" src=\"assets/images/pcindex/rca/Cable_3RCA+3RCA_Preto_5M.png\" alt=\"Card image cap\"><div class=\"card-body text-white p-0\"><h5 class=\"card-title text-center hvr-underline-from-center\"><span>3 RCA + 3 RCA</span></h5><p class=\"card-text\">Cable 3RCA + 3RCA Preto 5M</p></div></a></div>"
   },
   {
     "label": ".row.bg-info:eq(1)",
     "append":
-    "<div class=\"col-sm-4 pl-5 pr-5\"><a class=\"card bg-transparent p-5 border-0\" href=\"pages.html?1\"><img class=\"card-img-top\" src=\"assets/images/pcindex/Cabo-3-RCA-+-3-RCA-Niquel-1.8-M.png\" alt=\"Card image cap\"><div class=\"card-body text-white p-0\"><h5 class=\"card-title text-center hvr-underline-from-center\"><span>3 RCA + 3 RCA </span></h5><p class=\"card-text\">Cabo 3 RCA + 3 RCA Niquel 1.8M</p></div></a></div>"
+      "<div class=\"col-sm-4 pl-5 pr-5\"><a class=\"card bg-transparent p-5 border-0\" href=\"pages.html?11\"><img class=\"card-img-top\" src=\"assets/images/pcindex/rca/Cable_3RCA+3RCA_Video_Module_Gold_2M.png\" alt=\"Card image cap\"><div class=\"card-body text-white p-0\"><h5 class=\"card-title text-center hvr-underline-from-center\"><span>3 RCA + 3 RCA</span></h5><p class=\"card-text\">Cable 3RCA + 3RCA Video Module Gold 2M</p></div></a></div>"
   },
   {
     "label": ".row.bg-info:eq(1)",
     "append":
-    "<div class=\"col-sm-4 pl-5 pr-5\"><a class=\"card bg-transparent p-5 border-0\" href=\"pages.html?1\"><img class=\"card-img-top\" src=\"assets/images/pcindex/Cabo-3-RCA-+-3-RCA-Preto-5-M.png\" alt=\"Card image cap\"><div class=\"card-body text-white p-0\"><h5 class=\"card-title text-center hvr-underline-from-center\"><span>3 RCA + 3 RCA </span></h5><p class=\"card-text\">Cabo 3 RCA + 3 RCA Preto 5M</p></div></a></div>"
+      "<div class=\"col-sm-4 pl-5 pr-5\"><a class=\"card bg-transparent p-5 border-0\" href=\"pages.html?12\"><img class=\"card-img-top\" src=\"assets/images/pcindex/rca/Cable_P3_stereo+3RCA_Femea_16cm.png\" alt=\"Card image cap\"><div class=\"card-body text-white p-0\"><h5 class=\"card-title text-center hvr-underline-from-center\"><span>P3 stereo + 3RCA</span></h5><p class=\"card-text\">Cable P3 stereo + 3RCA Femea 16cm</p></div></a></div>"
   },
   {
     "label": ".row.bg-info:eq(1)",
     "append":
-    "<div class=\"col-sm-4 pl-5 pr-5\"><a class=\"card bg-transparent p-5 border-0\" href=\"pages.html?1\"><img class=\"card-img-top\" src=\"assets/images/pcindex/Cabo-P3-stereo-+-3-RCA-1,20-M.png\" alt=\"Card image cap\"><div class=\"card-body text-white p-0\"><h5 class=\"card-title text-center hvr-underline-from-center\"><span>P3 stereo + 3 RCA </span></h5><p class=\"card-text\">Cabo P3 stereo + 3 RCA 1,20M</p></div></a></div>"
+      "<div class=\"col-sm-4 pl-5 pr-5\"><a class=\"card bg-transparent p-5 border-0\" href=\"pages.html?13\"><img class=\"card-img-top\" src=\"assets/images/pcindex/rca/Cable_P3_stereo+3RCA.png\" alt=\"Card image cap\"><div class=\"card-body text-white p-0\"><h5 class=\"card-title text-center hvr-underline-from-center\"><span>P3 stereo + 3RCA</span></h5><p class=\"card-text\">Cable P3 stereo + 3RCA 1.2M</p></div></a></div>"
   },
   {
     "label": ".row.bg-info:eq(1)",
     "append":
-    "<div class=\"col-sm-4 pl-5 pr-5\"><a class=\"card bg-transparent p-5 border-0\" href=\"pages.html?1\"><img class=\"card-img-top\" src=\"assets/images/pcindex/Cabo-P3-stereo-+-3-RCA-Femea-16-cm.png\" alt=\"Card image cap\"><div class=\"card-body text-white p-0\"><h5 class=\"card-title text-center hvr-underline-from-center\"><span>P3 stereo + 3 RCA </span></h5><p class=\"card-text\">Cabo P3 stereo + 3 RCA Femea 16cm</p></div></a></div>"
+      "<div class=\"col-sm-4 pl-5 pr-5\"><a class=\"card bg-transparent p-5 border-0\" href=\"pages.html?14\"><img class=\"card-img-top\" src=\"assets/images/pcindex/rca/Cable_Samsung_TV_LED_20CM.png\" alt=\"Card image cap\"><div class=\"card-body text-white p-0\"><h5 class=\"card-title text-center hvr-underline-from-center\"><span>Samsung TV LED</span></h5><p class=\"card-text\">Cable Samsung TV LED 20CM</p></div></a></div>"
   },
   {
     "label": ".row.bg-info:eq(1)",
     "append":
-    "<div class=\"col-sm-4 pl-5 pr-5\"><a class=\"card bg-transparent p-5 border-0\" href=\"pages.html?1\"><img class=\"card-img-top\" src=\"assets/images/pcindex/3.1AM+AF.png\" alt=\"Card image cap\"><div class=\"card-body text-white p-0\"><h5 class=\"card-title text-center hvr-underline-from-center\"><span>Cabo Samsung TV LED </span></h5><p class=\"card-text\">Cabo Samsung TV LED 20CM</p></div></a></div>"
+      "<div class=\"col-sm-4 pl-5 pr-5\"><a class=\"card bg-transparent p-5 border-0\" href=\"pages.html?15\"><img class=\"card-img-top\" src=\"assets/images/pcindex/rca/P2_StereoX2Rca_Nickel_Metal_2M.png\" alt=\"Card image cap\"><div class=\"card-body text-white p-0\"><h5 class=\"card-title text-center hvr-underline-from-center\"><span>P2 Stereo + 2RCA</span></h5><p class=\"card-text\">P2 Stereo X 2RCA Nickel Metal 2M</p></div></a></div>"
   }
 ]

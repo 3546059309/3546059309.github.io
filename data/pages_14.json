@@ -1,0 +1,11 @@
+[
+    {
+        "label": "title",
+        "text": "RCA - diyoelec.com"
+    },
+    {
+      "label": ".row.bg-info:eq(1)",
+      "html":
+        "<div class=\"col-md-5 order-2 order-md-1\"><img class=\"img-fluid d-block mx-auto\" src=\"assets/images/pcindex/rca/Cable_Samsung_TV_LED_20CM.png\"> </div><div class=\"col-md-7 order-1 order-md-2\"><h3>Samsung TV LED</h3><p class=\"my-3\">&nbsp;</p><p class=\"my-3\">Specifications:</p><p class=\"my-3\">Cable Samsung TV LED 20CM<br> &nbsp;<br> &nbsp;</p></div>"
+    }
+]
