@@ -1,0 +1,11 @@
+[
+    {
+        "label": "title",
+        "text": "HDMI - diyoelec.com"
+    },
+    {
+      "label": ".row.bg-info:eq(1)",
+      "html":
+        "<div class=\"col-md-5 order-2 order-md-1\"><img class=\"img-fluid d-block mx-auto\" src=\"assets/images/pcindex/hdmi/Cabo_Dvi_(24+1)_+_Dvi_(24+1)_2M.png\"> </div><div class=\"col-md-7 order-1 order-md-2\"><h3>Dvi (24+1) + Dvi (24+1)</h3><p class=\"my-3\">&nbsp;</p><p class=\"my-3\">Specifications:</p>&nbsp;<p class=\"my-3\">Cabo Dvi (24+1) + Dvi (24+1) 2M</p></div>"
+    }
+]

@@ -16,5 +16,15 @@
       "label": ".row.bg-info:eq(1)",
       "append":
         "<div class=\"col-sm-4 pl-5 pr-5\"><a class=\"card bg-transparent p-5 border-0\" href=\"pages.html?202\"><img class=\"card-img-top\" src=\"assets/images/pcindex/hdmi/HDMI_2.0_20M.png\" alt=\"Card image cap\"><div class=\"card-body text-white p-0\"><h5 class=\"card-title text-center hvr-underline-from-center\"><span>HDMI 2.0 + HDMI 2.0</span></h5><p class=\"card-text\">cable HDMI 2.0 + HDMI 2.0 20M</p></div></a></div>"
+    },
+    {
+      "label": ".row.bg-info:eq(1)",
+      "append":
+        "<div class=\"col-sm-4 pl-5 pr-5\"><a class=\"card bg-transparent p-5 border-0\" href=\"pages.html?203\"><img class=\"card-img-top\" src=\"assets/images/pcindex/hdmi/Cabo_Dvi_(24+1)_+_Dvi_(24+1)_2M.png\" alt=\"Card image cap\"><div class=\"card-body text-white p-0\"><h5 class=\"card-title text-center hvr-underline-from-center\"><span>Dvi (24+1) + Dvi (24+1)</span></h5><p class=\"card-text\">Cabo Dvi (24+1) + Dvi (24+1) 2M</p></div></a></div>"
+    },
+    {
+      "label": ".row.bg-info:eq(1)",
+      "append":
+        "<div class=\"col-sm-4 pl-5 pr-5\"><a class=\"card bg-transparent p-5 border-0\" href=\"pages.html?204\"><img class=\"card-img-top\" src=\"assets/images/pcindex/hdmi/Cabo_VGA+VGA_Magnetic_ring_5M.png\" alt=\"Card image cap\"><div class=\"card-body text-white p-0\"><h5 class=\"card-title text-center hvr-underline-from-center\"><span>VGA + VGA</span></h5><p class=\"card-text\">Cabo VGA + VGA Magnetic ring 5M</p></div></a></div>"
     }
 ]
