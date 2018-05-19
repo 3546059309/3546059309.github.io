@@ -10,7 +10,7 @@
     {
       "label": ".row.bg-info:eq(1)",
       "html":
-        "<div class=\"col-sm-4 pl-5 pr-5\"><a class=\"card bg-transparent p-5 border-0\" href=\"pages.html?201\"><img class=\"card-img-top\" src=\"assets/images/pcindex/hdmi/cable_Dvi_(24+1)+HDMI_male_2M.png\" alt=\"Card image cap\"><div class=\"card-body text-white p-0\"><h5 class=\"card-title text-center hvr-underline-from-center\"><span>Dvi(24+1) + HDMI</span></h5><p class=\"card-text\">cable Dvi (24+1) + HDMI male 2M/p></div></a></div>"
+        "<div class=\"col-sm-4 pl-5 pr-5\"><a class=\"card bg-transparent p-5 border-0\" href=\"pages.html?201\"><img class=\"card-img-top\" src=\"assets/images/pcindex/hdmi/cable_Dvi_(24+1)+HDMI_male_2M.png\" alt=\"Card image cap\"><div class=\"card-body text-white p-0\"><h5 class=\"card-title text-center hvr-underline-from-center\"><span>Dvi(24+1) + HDMI</span></h5><p class=\"card-text\">cable Dvi (24+1) + HDMI male 2M</p></div></a></div>"
     },
     {
       "label": ".row.bg-info:eq(1)",

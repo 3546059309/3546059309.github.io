@@ -1,0 +1,11 @@
+[
+    {
+        "label": "title",
+        "text": "LAN - diyoelec.com"
+    },
+    {
+      "label": ".row.bg-info:eq(1)",
+      "html":
+        "<div class=\"col-md-5 order-2 order-md-1\"><img class=\"img-fluid d-block mx-auto\" src=\"assets/images/pcindex/lan/Cabo_P2+P2_Stereo_Flat.png\"> </div><div class=\"col-md-7 order-1 order-md-2\"><h3>P2 + P2</h3><p class=\"my-3\">&nbsp;</p><p class=\"my-3\">Specifications:</p>&nbsp;<p class=\"my-3\">Cabo P2 Stereo + P2 Stereo Flat 1.2M</p></div>"
+    }
+]
