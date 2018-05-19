@@ -1,0 +1,11 @@
+[
+    {
+        "label": "title",
+        "text": "ADAPTER  - diyoelec.com"
+    },
+    {
+      "label": ".row.bg-info:eq(1)",
+      "html":
+        "<div class=\"col-md-5 order-2 order-md-1\"><img class=\"img-fluid d-block mx-auto\" src=\"assets/images/pcindex/adapter/Jack_RCA_female_black.png\"> </div><div class=\"col-md-7 order-1 order-md-2\"><h3>RCA series</h3><p class=\"my-3\">&nbsp;</p><p class=\"my-3\">Specifications:</p>&nbsp;<p class=\"my-3\">Plug RCA female</p></div>"
+    }
+]

@@ -1,6 +1,40 @@
 [
     {
         "label": "title",
-        "text": "USB - diyoelec.com"
+        "text": "ADAPTER - diyoelec.com"
+    },
+    {
+      "label": ".row.bg-info h5",
+      "text": "ADAPTER"
+    },
+    {
+      "label": ".row.bg-info:eq(1)",
+      "html":
+        "<div class=\"col-sm-4 pl-5 pr-5\"><a class=\"card bg-transparent p-5 border-0\" href=\"pages.html?40063501\"><img class=\"card-img-top\" src=\"assets/images/pcindex/adapter/Adaptador_P10_mono_para_P10_mono.png\" alt=\"Card image cap\"><div class=\"card-body text-white p-0\"><h5 class=\"card-title text-center hvr-underline-from-center\"><span>6.35mm series</span></h5><p class=\"card-text\">Adapter P10 mono para P10 mono</p></div></a></div>"
+    },
+    {
+      "label": ".row.bg-info:eq(1)",
+      "append":
+        "<div class=\"col-sm-4 pl-5 pr-5\"><a class=\"card bg-transparent p-5 border-0\" href=\"pages.html?4003501\"><img class=\"card-img-top\" src=\"assets/images/pcindex/adapter/Plug_35mm_male_mono_90_angle.png\" alt=\"Card image cap\"><div class=\"card-body text-white p-0\"><h5 class=\"card-title text-center hvr-underline-from-center\"><span>3.5mm series</span></h5><p class=\"card-text\">Plug 35mm male mono 90 angle</p></div></a></div>"
+    },
+    {
+      "label": ".row.bg-info:eq(1)",
+      "append":
+        "<div class=\"col-sm-4 pl-5 pr-5\"><a class=\"card bg-transparent p-5 border-0\" href=\"pages.html?4003502\"><img class=\"card-img-top\" src=\"assets/images/pcindex/adapter/Plug_35mm_male_stereo.png\" alt=\"Card image cap\"><div class=\"card-body text-white p-0\"><h5 class=\"card-title text-center hvr-underline-from-center\"><span>3.5mm series</span></h5><p class=\"card-text\">Plug 35mm male stereo</p></div></a></div>"
+    },
+    {
+      "label": ".row.bg-info:eq(1)",
+      "append":
+        "<div class=\"col-sm-4 pl-5 pr-5\"><a class=\"card bg-transparent p-5 border-0\" href=\"pages.html?400r01\"><img class=\"card-img-top\" src=\"assets/images/pcindex/adapter/Jack_RCA_female_black.png\" alt=\"Card image cap\"><div class=\"card-body text-white p-0\"><h5 class=\"card-title text-center hvr-underline-from-center\"><span>RCA series</span></h5><p class=\"card-text\">Plug RCA female</p></div></a></div>"
+    },
+    {
+      "label": ".row.bg-info:eq(1)",
+      "append":
+        "<div class=\"col-sm-4 pl-5 pr-5\"><a class=\"card bg-transparent p-5 border-0\" href=\"pages.html?400r02\"><img class=\"card-img-top\" src=\"assets/images/pcindex/adapter/Plug_RCA_male_black.png\" alt=\"Card image cap\"><div class=\"card-body text-white p-0\"><h5 class=\"card-title text-center hvr-underline-from-center\"><span>RCA series</span></h5><p class=\"card-text\">Plug RCA male</p></div></a></div>"
+    },
+    {
+      "label": ".row.bg-info:eq(1)",
+      "append":
+        "<div class=\"col-sm-4 pl-5 pr-5\"><a class=\"card bg-transparent p-5 border-0\" href=\"pages.html?400h01\"><img class=\"card-img-top\" src=\"assets/images/pcindex/adapter/HDMI_Female_HDMI_Female.png\" alt=\"Card image cap\"><div class=\"card-body text-white p-0\"><h5 class=\"card-title text-center hvr-underline-from-center\"><span>HDMI series</span></h5><p class=\"card-text\">HDMI Female para HDMI Female</p></div></a></div>"
     }
 ]
