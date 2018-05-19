@@ -6,6 +6,6 @@
     {
       "label": ".row.bg-info:eq(1)",
       "html":
-        "<div class=\"col-md-5 order-2 order-md-1\"><img class=\"img-fluid d-block mx-auto\" src=\"assets/images/pcindex/usb/cable_Dvi_(24+1)+HDMI_male_2M.png\"> </div><div class=\"col-md-7 order-1 order-md-2\"><h3>Dvi(24+1) + HDMI</h3><p class=\"my-3\">&nbsp;</p><p class=\"my-3\">Specifications:</p>&nbsp;<p class=\"my-3\">cable Dvi (24+1) + HDMI male 2M</p></div>"
+        "<div class=\"col-md-5 order-2 order-md-1\"><img class=\"img-fluid d-block mx-auto\" src=\"assets/images/pcindex/hdmi/cable_Dvi_(24+1)+HDMI_male_2M.png\"> </div><div class=\"col-md-7 order-1 order-md-2\"><h3>Dvi(24+1) + HDMI</h3><p class=\"my-3\">&nbsp;</p><p class=\"my-3\">Specifications:</p>&nbsp;<p class=\"my-3\">cable Dvi (24+1) + HDMI male 2M</p></div>"
     }
 ]
