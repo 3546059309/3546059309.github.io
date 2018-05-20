@@ -15,12 +15,37 @@
     {
       "label": ".row.bg-info:eq(1)",
       "append":
+        "<div class=\"col-sm-4 pl-5 pr-5\"><a class=\"card bg-transparent p-5 border-0\" href=\"pages.html?40063502\"><img class=\"card-img-top\" src=\"assets/images/pcindex/adapter/J10_Stereo_Plug_Nickel.png\" alt=\"Card image cap\"><div class=\"card-body text-white p-0\"><h5 class=\"card-title text-center hvr-underline-from-center\"><span>6.35mm series</span></h5><p class=\"card-text\">J10 Stereo Plug Nickel</p></div></a></div>"
+    },
+    {
+      "label": ".row.bg-info:eq(1)",
+      "append":
+        "<div class=\"col-sm-4 pl-5 pr-5\"><a class=\"card bg-transparent p-5 border-0\" href=\"pages.html?40063503\"><img class=\"card-img-top\" src=\"assets/images/pcindex/adapter/Plug_P10_Mono_90_Graus.png\" alt=\"Card image cap\"><div class=\"card-body text-white p-0\"><h5 class=\"card-title text-center hvr-underline-from-center\"><span>6.35mm series</span></h5><p class=\"card-text\">Plug P10 Mono 90 Graus</p></div></a></div>"
+    },
+    {
+      "label": ".row.bg-info:eq(1)",
+      "append":
+        "<div class=\"col-sm-4 pl-5 pr-5\"><a class=\"card bg-transparent p-5 border-0\" href=\"pages.html?40063504\"><img class=\"card-img-top\" src=\"assets/images/pcindex/adapter/Plug_P10_Mono.png\" alt=\"Card image cap\"><div class=\"card-body text-white p-0\"><h5 class=\"card-title text-center hvr-underline-from-center\"><span>6.35mm series</span></h5><p class=\"card-text\">Plug P10 Mono</p></div></a></div>"
+    },
+    {
+      "label": ".row.bg-info:eq(1)",
+      "append":
+        "<div class=\"col-sm-4 pl-5 pr-5\"><a class=\"card bg-transparent p-5 border-0\" href=\"pages.html?40063505\"><img class=\"card-img-top\" src=\"assets/images/pcindex/adapter/Plug_P10_Profissional_Mono.png\" alt=\"Card image cap\"><div class=\"card-body text-white p-0\"><h5 class=\"card-title text-center hvr-underline-from-center\"><span>6.35mm series</span></h5><p class=\"card-text\">Plug P10 Profissional Mono</p></div></a></div>"
+    },
+    {
+      "label": ".row.bg-info:eq(1)",
+      "append":
         "<div class=\"col-sm-4 pl-5 pr-5\"><a class=\"card bg-transparent p-5 border-0\" href=\"pages.html?4003501\"><img class=\"card-img-top\" src=\"assets/images/pcindex/adapter/Plug_35mm_male_mono_90_angle.png\" alt=\"Card image cap\"><div class=\"card-body text-white p-0\"><h5 class=\"card-title text-center hvr-underline-from-center\"><span>3.5mm series</span></h5><p class=\"card-text\">Plug 35mm male mono 90 angle</p></div></a></div>"
     },
     {
       "label": ".row.bg-info:eq(1)",
       "append":
         "<div class=\"col-sm-4 pl-5 pr-5\"><a class=\"card bg-transparent p-5 border-0\" href=\"pages.html?4003502\"><img class=\"card-img-top\" src=\"assets/images/pcindex/adapter/Plug_35mm_male_stereo.png\" alt=\"Card image cap\"><div class=\"card-body text-white p-0\"><h5 class=\"card-title text-center hvr-underline-from-center\"><span>3.5mm series</span></h5><p class=\"card-text\">Plug 35mm male stereo</p></div></a></div>"
+    },
+    {
+      "label": ".row.bg-info:eq(1)",
+      "append":
+        "<div class=\"col-sm-4 pl-5 pr-5\"><a class=\"card bg-transparent p-5 border-0\" href=\"pages.html?4003503\"><img class=\"card-img-top\" src=\"assets/images/pcindex/adapter/J2_plug_nickel.png\" alt=\"Card image cap\"><div class=\"card-body text-white p-0\"><h5 class=\"card-title text-center hvr-underline-from-center\"><span>3.5mm series</span></h5><p class=\"card-text\">J2 plug nickel</p></div></a></div>"
     },
     {
       "label": ".row.bg-info:eq(1)",
@@ -36,5 +61,45 @@
       "label": ".row.bg-info:eq(1)",
       "append":
         "<div class=\"col-sm-4 pl-5 pr-5\"><a class=\"card bg-transparent p-5 border-0\" href=\"pages.html?400h01\"><img class=\"card-img-top\" src=\"assets/images/pcindex/adapter/HDMI_Female_HDMI_Female.png\" alt=\"Card image cap\"><div class=\"card-body text-white p-0\"><h5 class=\"card-title text-center hvr-underline-from-center\"><span>HDMI series</span></h5><p class=\"card-text\">HDMI Female para HDMI Female</p></div></a></div>"
+    },
+    {
+      "label": ".row.bg-info:eq(1)",
+      "append":
+        "<div class=\"col-sm-4 pl-5 pr-5\"><a class=\"card bg-transparent p-5 border-0\" href=\"pages.html?400c02\"><img class=\"card-img-top\" src=\"assets/images/pcindex/adapter/Conector_Cannon_Female_Painel.png\" alt=\"Card image cap\"><div class=\"card-body text-white p-0\"><h5 class=\"card-title text-center hvr-underline-from-center\"><span>Cannon series</span></h5><p class=\"card-text\">Conector Cannon Female Painel</p></div></a></div>"
+    },
+    {
+      "label": ".row.bg-info:eq(1)",
+      "append":
+        "<div class=\"col-sm-4 pl-5 pr-5\"><a class=\"card bg-transparent p-5 border-0\" href=\"pages.html?400c03\"><img class=\"card-img-top\" src=\"assets/images/pcindex/adapter/Jack_Cannon_90_Graus.png\" alt=\"Card image cap\"><div class=\"card-body text-white p-0\"><h5 class=\"card-title text-center hvr-underline-from-center\"><span>Cannon series</span></h5><p class=\"card-text\">Jack Cannon 90 Graus</p></div></a></div>"
+    },
+    {
+      "label": ".row.bg-info:eq(1)",
+      "append":
+        "<div class=\"col-sm-4 pl-5 pr-5\"><a class=\"card bg-transparent p-5 border-0\" href=\"pages.html?400c04\"><img class=\"card-img-top\" src=\"assets/images/pcindex/adapter/Plug_Cannon_Female.png\" alt=\"Card image cap\"><div class=\"card-body text-white p-0\"><h5 class=\"card-title text-center hvr-underline-from-center\"><span>Cannon series</span></h5><p class=\"card-text\">Plug Cannon Female</p></div></a></div>"
+    },
+    {
+      "label": ".row.bg-info:eq(1)",
+      "append":
+        "<div class=\"col-sm-4 pl-5 pr-5\"><a class=\"card bg-transparent p-5 border-0\" href=\"pages.html?400c05\"><img class=\"card-img-top\" src=\"assets/images/pcindex/adapter/Plug_Cannon_Femlale_com_Trava.png\" alt=\"Card image cap\"><div class=\"card-body text-white p-0\"><h5 class=\"card-title text-center hvr-underline-from-center\"><span>Cannon series</span></h5><p class=\"card-text\">Plug Cannon Femlale com Trava</p></div></a></div>"
+    },
+    {
+      "label": ".row.bg-info:eq(1)",
+      "append":
+        "<div class=\"col-sm-4 pl-5 pr-5\"><a class=\"card bg-transparent p-5 border-0\" href=\"pages.html?400c06\"><img class=\"card-img-top\" src=\"assets/images/pcindex/adapter/Plug_Cannon_Profissional_male.png\" alt=\"Card image cap\"><div class=\"card-body text-white p-0\"><h5 class=\"card-title text-center hvr-underline-from-center\"><span>Cannon series</span></h5><p class=\"card-text\">Plug Cannon Profissional male</p></div></a></div>"
+    },
+    {
+      "label": ".row.bg-info:eq(1)",
+      "append":
+        "<div class=\"col-sm-4 pl-5 pr-5\"><a class=\"card bg-transparent p-5 border-0\" href=\"pages.html?400c07\"><img class=\"card-img-top\" src=\"assets/images/pcindex/adapter/Plug_Cannon.png\" alt=\"Card image cap\"><div class=\"card-body text-white p-0\"><h5 class=\"card-title text-center hvr-underline-from-center\"><span>Cannon series</span></h5><p class=\"card-text\">Plug Cannon</p></div></a></div>"
+    },
+    {
+      "label": ".row.bg-info:eq(1)",
+      "append":
+        "<div class=\"col-sm-4 pl-5 pr-5\"><a class=\"card bg-transparent p-5 border-0\" href=\"pages.html?400c08\"><img class=\"card-img-top\" src=\"assets/images/pcindex/adapter/Plug_Speakon_Female_para_Painel_Redondo_4_Pinos_4_Furos.png\" alt=\"Card image cap\"><div class=\"card-body text-white p-0\"><h5 class=\"card-title text-center hvr-underline-from-center\"><span>Cannon series</span></h5><p class=\"card-text\">Plug Speakon Female para Painel Redondo 4 Pinos 4 Furos</p></div></a></div>"
+    },
+    {
+      "label": ".row.bg-info:eq(1)",
+      "append":
+        "<div class=\"col-sm-4 pl-5 pr-5\"><a class=\"card bg-transparent p-5 border-0\" href=\"pages.html?400c09\"><img class=\"card-img-top\" src=\"assets/images/pcindex/adapter/Plug_Speakon_male_4_Pinos.png\" alt=\"Card image cap\"><div class=\"card-body text-white p-0\"><h5 class=\"card-title text-center hvr-underline-from-center\"><span>Cannon series</span></h5><p class=\"card-text\">Plug Speakon male 4 Pinos</p></div></a></div>"
     }
 ]

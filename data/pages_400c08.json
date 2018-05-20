@@ -1,0 +1,11 @@
+[
+    {
+        "label": "title",
+        "text": "ADAPTER - diyoelec.com"
+    },
+    {
+      "label": ".row.bg-info:eq(1)",
+      "html":
+        "<div class=\"col-md-5 order-2 order-md-1\"><img class=\"img-fluid d-block mx-auto\" src=\"assets/images/pcindex/adapter/Plug_Speakon_Female_para_Painel_Redondo_4_Pinos_4_Furos.png\"> </div><div class=\"col-md-7 order-1 order-md-2\"><h3>Cannon series</h3><p class=\"my-3\">&nbsp;</p><p class=\"my-3\">Specifications:</p>&nbsp;<p class=\"my-3\">Plug Speakon Female para Painel Redondo 4 Pinos 4 Furos</p></div>"
+    }
+]

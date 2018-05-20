@@ -1,0 +1,11 @@
+[
+    {
+        "label": "title",
+        "text": "ADAPTER - diyoelec.com"
+    },
+    {
+      "label": ".row.bg-info:eq(1)",
+      "html":
+        "<div class=\"col-md-5 order-2 order-md-1\"><img class=\"img-fluid d-block mx-auto\" src=\"assets/images/pcindex/adapter/Plug_P10_Mono_90_Graus.png\"> </div><div class=\"col-md-7 order-1 order-md-2\"><h3>6.35mm series</h3><p class=\"my-3\">&nbsp;</p><p class=\"my-3\">Specifications:</p>&nbsp;<p class=\"my-3\">Plug P10 Mono 90 Graus</p></div>"
+    }
+]
